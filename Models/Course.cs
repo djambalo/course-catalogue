@@ -11,5 +11,7 @@ namespace CourseCatalog.Models
 
         [DataType(DataType.Time)]
         public TimeOnly StartTime { get; set; }
+        
+        public TimeOnly EndTime { get; set; }
     }
 }

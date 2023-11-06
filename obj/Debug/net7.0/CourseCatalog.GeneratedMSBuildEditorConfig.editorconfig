@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseCatalog
 build_property.RootNamespace = CourseCatalog
-build_property.ProjectDir = /home/sorrymint/Documents/IHCC/2023FALL/C#/Project 5/Project 5/Project 5 Solution/CourseCatalog/
+build_property.ProjectDir = C:\C#\CIS169Project5Starter\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/sorrymint/Documents/IHCC/2023FALL/C#/Project 5/Project 5/Project 5 Solution/CourseCatalog
+build_property.MSBuildProjectDirectory = C:\C#\CIS169Project5Starter
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/Courses/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291cnNlcy9DcmVhdGUuY3NodG1s
+[C:/C\#/CIS169Project5Starter/Pages/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/Courses/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291cnNlcy9EZWxldGUuY3NodG1s
+[C:/C\#/CIS169Project5Starter/Pages/Courses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/Courses/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291cnNlcy9EZXRhaWxzLmNzaHRtbA==
+[C:/C\#/CIS169Project5Starter/Pages/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/Courses/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291cnNlcy9FZGl0LmNzaHRtbA==
+[C:/C\#/CIS169Project5Starter/Pages/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/Courses/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291cnNlcy9JbmRleC5jc2h0bWw=
+[C:/C\#/CIS169Project5Starter/Pages/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[C:/C\#/CIS169Project5Starter/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+[C:/C\#/CIS169Project5Starter/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+[C:/C\#/CIS169Project5Starter/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/C\#/CIS169Project5Starter/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/C\#/CIS169Project5Starter/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/C\#/CIS169Project5Starter/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/sorrymint/Documents/IHCC/2023FALL/C\#/Project 5/Project 5/Project 5 Solution/CourseCatalog/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-uer3pd2crs
+[C:/C\#/CIS169Project5Starter/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-36zn74zvub

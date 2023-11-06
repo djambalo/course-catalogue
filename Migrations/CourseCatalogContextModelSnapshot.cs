@@ -29,6 +29,9 @@ namespace CourseCatalog.Migrations
                     b.Property<string>("CourseName")
                         .HasColumnType("TEXT");
 
+                    b.Property<TimeOnly>("EndTime")
+                        .HasColumnType("TEXT");
+
                     b.Property<int>("RoomNumber")
                         .HasColumnType("INTEGER");
 
