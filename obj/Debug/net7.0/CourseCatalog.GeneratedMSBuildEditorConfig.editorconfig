@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseCatalog
 build_property.RootNamespace = CourseCatalog
-build_property.ProjectDir = C:\C#\CIS169Project5Starter\
+build_property.ProjectDir = C:\C#\course-catalogue\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\C#\CIS169Project5Starter
+build_property.MSBuildProjectDirectory = C:\C#\course-catalogue
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/C\#/CIS169Project5Starter/Pages/Courses/Create.cshtml]
+[C:/C\#/course-catalogue/Pages/Courses/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/CIS169Project5Starter/Pages/Courses/Delete.cshtml]
+[C:/C\#/course-catalogue/Pages/Courses/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/CIS169Project5Starter/Pages/Courses/Details.cshtml]
+[C:/C\#/course-catalogue/Pages/Courses/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/CIS169Project5Starter/Pages/Courses/Edit.cshtml]
+[C:/C\#/course-catalogue/Pages/Courses/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/CIS169Project5Starter/Pages/Courses/Index.cshtml]
+[C:/C\#/course-catalogue/Pages/Courses/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/CIS169Project5Starter/Pages/Error.cshtml]
+[C:/C\#/course-catalogue/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/CIS169Project5Starter/Pages/Index.cshtml]
+[C:/C\#/course-catalogue/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/CIS169Project5Starter/Pages/Privacy.cshtml]
+[C:/C\#/course-catalogue/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/CIS169Project5Starter/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/C\#/course-catalogue/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/CIS169Project5Starter/Pages/_ViewImports.cshtml]
+[C:/C\#/course-catalogue/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/CIS169Project5Starter/Pages/_ViewStart.cshtml]
+[C:/C\#/course-catalogue/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/C\#/CIS169Project5Starter/Pages/Shared/_Layout.cshtml]
+[C:/C\#/course-catalogue/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-36zn74zvub
