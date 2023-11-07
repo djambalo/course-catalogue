@@ -10670,20 +10670,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\14704\\.nuget\\packages\\": {}
+    "C:\\Users\\dakot\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\CIS169Project5Starter\\CourseCatalog.csproj",
+      "projectUniqueName": "C:\\C#\\course-catalogue\\CourseCatalog.csproj",
       "projectName": "CourseCatalog",
-      "projectPath": "C:\\C#\\CIS169Project5Starter\\CourseCatalog.csproj",
-      "packagesPath": "C:\\Users\\14704\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\CIS169Project5Starter\\obj\\",
+      "projectPath": "C:\\C#\\course-catalogue\\CourseCatalog.csproj",
+      "packagesPath": "C:\\Users\\dakot\\.nuget\\packages\\",
+      "outputPath": "C:\\C#\\course-catalogue\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\14704\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dakot\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\MicroFocus.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10744,7 +10749,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
